@@ -49,6 +49,6 @@ Hello, my name is **Angella McConnell**. I am so glad that you have found my pag
 
 ## Start Here
 
-If you’re feeling behind, overwhelmed, or unsure whether you belong in tech, start with the first post in the series :sparkles:.
+If you’re feeling behind, overwhelmed, or unsure whether you belong in tech, start with the first post in the series ✨ :sparkles:.
 
-:metal: [Read Part One](blog.1)
+:metal:🤘 [Read Part One](2026-03-02-Real-Talk-Part-1.md)
