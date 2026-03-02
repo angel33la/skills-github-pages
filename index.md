@@ -1,5 +1,8 @@
 ---
+theme: minima
 title: Learning Web Development the Hard Way 
+description: Navigating faced-paced courses, burnout, deadlines, reality in web dev
+author: angel33la
 ---
 
 # Learning Web Development the Hard Way
