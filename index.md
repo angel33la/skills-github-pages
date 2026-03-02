@@ -1,6 +1,5 @@
 ---
-theme: minima
-title: Learning Web Development the Hard Way 
+remote_theme: daattali/beautiful-jekyll@6.0.1
 description: Navigating faced-paced courses, burnout, deadlines, reality in web dev
 author: angel33la
 ---
@@ -49,6 +48,6 @@ Hello, my name is **Angella McConnell**. I am so glad that you have found my pag
 
 ## Start Here
 
-If you’re feeling behind, overwhelmed, or unsure whether you belong in tech, start with the first post in the series ✨ :sparkles:.
+If you’re feeling behind, overwhelmed, or unsure whether you belong in tech, start with the first post in the series ✨.
 
-:metal:🤘 [Read Part One](2026-03-02-Real-Talk-Part-1.md)
+🤘 [Read Part One](2026-03-02-Real-Talk-Part-1.md)
